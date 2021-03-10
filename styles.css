@@ -2,6 +2,10 @@ body {
     background-color: rgb(62, 174, 31);
 }
 
+header {
+    text-align: center;
+}
+
 table {
     width: 70%;
     border-collapse: collapse;
